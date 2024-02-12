@@ -17,4 +17,4 @@ proxy: socket.o server.o logger.o main.cc
 
 clean:
 	rm -rf *.o
-	rm -rf server
+	rm -rf proxy
