@@ -1,0 +1,6 @@
+*.o
+server
+client
+proxy
+nvim-dap.lua
+log
