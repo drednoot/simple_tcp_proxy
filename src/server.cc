@@ -49,7 +49,7 @@ void Server::MainLoop() {
           ++checked;
         }
       }
-      std::this_thread::sleep_for(std::chrono::milliseconds(kDefaultSleepTime));
+      // std::this_thread::sleep_for(std::chrono::milliseconds(kDefaultSleepTime));
     }
   }
 }
